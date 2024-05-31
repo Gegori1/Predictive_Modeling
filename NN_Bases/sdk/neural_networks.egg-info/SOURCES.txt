@@ -1,0 +1,11 @@
+pyproject.toml
+setup.cfg
+setup.py
+neural_networks/Model.py
+neural_networks/__init__.py
+neural_networks/nn_utils.py
+neural_networks.egg-info/PKG-INFO
+neural_networks.egg-info/SOURCES.txt
+neural_networks.egg-info/dependency_links.txt
+neural_networks.egg-info/requires.txt
+neural_networks.egg-info/top_level.txt

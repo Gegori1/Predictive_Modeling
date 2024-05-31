@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: neural_networks
+Version: 0.0.1
+Summary: "Functions for neural networks project"
+Author: "My self"
+Platform: Linux
+Platform: Windows
+Requires-Python: >=3.6
+Requires-Dist: numpy>=1.26.1
+Requires-Dist: pandas>=2.1.1
+Requires-Dist: tensorflow
